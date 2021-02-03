@@ -89,15 +89,7 @@
 	border: 1px solid #F47321;
 }
 
-.yellow-border {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	position: relative;
-	background-color: #0C6A93;
-	margin: 6px 6px;
-	border: 1px solid red !important;
-}
+
 
 .plusButton {
 	border-radius: 50%;
