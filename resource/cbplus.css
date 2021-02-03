@@ -90,7 +90,12 @@
 }
 
 .yellow-border {
-	border: 2px solid yellow !important;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+	background-color: #0C6A93;
+	border: 1px solid red !important;
 }
 
 .plusButton {
